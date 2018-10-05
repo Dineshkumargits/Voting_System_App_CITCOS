@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Voting System</string>
+    <string name="app_name">POLYS</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
